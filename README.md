@@ -28,7 +28,7 @@ ZhiDaoChatCorpus, zhidao QA pairs crawled from Baidu zhidao which contains more 
 
 # 数据介绍
 
-1, 文件路径:已经上传至网盘,网盘地址为链接:https://pan.baidu.com/s/1Eesx24tAbfJ3Mch-6OeGrA  密码:oin3  
+1, 文件路径:已经上传至网盘,网盘地址为链接:https://pan.baidu.com/s/1Eesx24tAbfJ3Mch-6OeGrA  密码:oin3  ;链接: https://pan.baidu.com/s/1ayLx2M00o6bXpAoQxswTBg 提取码: u1cv 复制这段内容后打开百度网盘手机App，操作更方便哦
 2, 文件名称:zhidao_qa。json, json文件的内容样式为:  
 
         {
